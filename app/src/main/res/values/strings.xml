@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="minimum_password">Minimum Password</string>
+    <string name="auth_failed">Authentication Failed</string>
+</resources>
